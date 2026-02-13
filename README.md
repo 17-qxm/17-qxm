@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 - ⚡ Fun fact: Playing Counter-Strike 2 with my friend.
 
 ## 📈 GitHub Stats
-![17-qxm's GitHub stats](https://github-readme-stats.vercel.app/api?username=17-qxm&show_icons=true&theme=default)
+[![17-qxm's GitHub stats](https://github-readme-stats.vercel.app/api?username=17-qxm)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with Me
 - Email: qxm2643699211@outlook.com
