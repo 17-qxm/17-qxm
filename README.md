@@ -3,8 +3,8 @@
 大学生 · OIer · C++ / AI 爱好者
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=17-qxm&theme=dark&show_icons=true&count_private=true">
-  <img align="right" width="48%" src="https://github-readme-stats-ouuan.vercel.app/api?username=17-qxm&show_icons=true&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.dogdie.icu/api?username=17-qxm&theme=dark&show_icons=true&count_private=true">
+  <img align="right" width="48%" src="https://gh-stats.dogdie.icu/api?username=17-qxm&show_icons=true&count_private=true">
 </picture>
 
 欢迎来到我的 GitHub 主页！下面是我的一些信息和近期动态。
@@ -31,6 +31,6 @@
 
 ## 📈 统计（自动生成）
 
-![](https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=17-qxm&layout=compact&theme=dark)
+![](https://gh-stats.dogdie.icu/api/top-langs/?username=17-qxm&layout=compact&theme=dark)
 
 > 引用："Your time is limited, so don’t waste it living someone else’s life." — Steve Jobs
