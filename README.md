@@ -29,7 +29,7 @@
 
 | 项目 | 简介 | 技术栈 |
 |------|------|--------|
-| [17-qxm/buildpp](https://github.com/17-qxm/buildpp) | 一个简单易用的C++编译辅助工具 | C++ |
+| [code-landscape/buildpp](https://github.com/code-landscape/buildpp) | 一个简单易用的C++编译辅助工具 | C++ |
 
 
 > 还在陆续更新中，欢迎 Star ⭐
