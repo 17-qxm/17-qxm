@@ -1,7 +1,7 @@
 # Hi, I'm 17-qxm 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=70" width="100%"/>
 </p>
 
 大学生 · OIer · C++ / AI 爱好者
